@@ -4,7 +4,7 @@
 
 > Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows, Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments. As a result, IT can ship faster and run the same app, unchanged, on laptops, data center VMs, and any cloud.
 >
-> Docker是为开发者和系统管理员提供的一套用于创建、发布和运行分布式应用的开放平台。它由Docker引擎（一个可移植的轻量级运行环境和打包工具）和Docker Hub（用于分享应用和提供自动化工作流的云服务）组成。Docker可以通过组件快速地组合成应用，并且减少开放、QA和发布环境之间的摩擦。最终，IT工程师能快速地将应用毫无更改地发布到笔记本、数据中心的虚拟机和所有的云环境上。
+> Docker是为开发者和系统管理员提供的一套用于创建、发布和运行分布式应用的开放平台。它由Docker引擎（一个可移植的轻量级运行环境和打包工具）和Docker Hub（用于分享应用和提供自动化工作流的云服务）组成。Docker可以通过组件快速地组合成应用，并且减少开发、QA和发布环境之间的摩擦。最终，IT工程师能快速地将应用毫无更改地发布到笔记本、数据中心的虚拟机和所有的云环境上。
 
 要理解Docker官网的这段话，我们需要了解网络应用的演变历程。
 
